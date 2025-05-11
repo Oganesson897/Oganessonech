@@ -1,0 +1,4 @@
+gregicprobe:top.eut=EUt:
+gregicprobe.top.outputs=输出:
+gregicprobe.top.pipe.energy=平均能量: §a%s EU/刻 §f(%s§f/%s§f) @ §a%s§f/§a%s A
+gregicprobe.top.top_override.fluid=流体: %s

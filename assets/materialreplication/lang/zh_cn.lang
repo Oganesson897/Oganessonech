@@ -1,0 +1,86 @@
+## Item
+metaitem.usb_stick.name=U盘
+metaitem.scrap.name=废料
+metaitem.scrap.tooltip=取自废料回收机
+metaitem.scrap_box.name=废料盒
+metaitem.scrap_box.tooltip=§8§o废料§o§l盒子§r§8§o...？不，这是个§o§l方块§r§8。
+
+## behaviour
+behaviour.usb.no_data=用于存储材料数据
+behaviour.usb.replicate=包含的材料数据将用于材料复制机
+behaviour.usb.replicate_data1=复制材料: §a%s
+behaviour.usb.replicate_data2=复制所需物质量
+behaviour.usb.replicate_data3=§4%s§7 : %s L
+behaviour.usb.replicate_data4=§3%s§7 : %s L
+
+## Material
+materialreplication.material.primal_matter=原始物质
+materialreplication.material.charged_matter=充能物质
+materialreplication.material.neutral_matter=中性物质
+materialreplication.material.matter_amplifier=物质增幅剂
+
+## Machine
+# Material Deconstructor
+materialreplication.machine.deconstructor.lv.name=基础材料分解机
+materialreplication.machine.deconstructor.mv.name=进阶材料分解机
+materialreplication.machine.deconstructor.hv.name=进阶材料分解机 II
+materialreplication.machine.deconstructor.ev.name=进阶材料分解机 III
+materialreplication.machine.deconstructor.iv.name=精英材料分解机
+materialreplication.machine.deconstructor.luv.name=精英材料分解机 II
+materialreplication.machine.deconstructor.zpm.name=精英材料分解机 III
+materialreplication.machine.deconstructor.uv.name=终极材料分解机
+materialreplication.machine.deconstructor.uhv.name=史诗材料分解机
+materialreplication.machine.deconstructor.uev.name=史诗材料分解机 II
+materialreplication.machine.deconstructor.uiv.name=史诗材料分解机 III
+materialreplication.machine.deconstructor.uxv.name=史诗材料分解机 IV
+materialreplication.machine.deconstructor.opv.name=传奇材料分解机
+
+# Material Replicator
+materialreplication.machine.replicator.lv.name=基础材料复制机
+materialreplication.machine.replicator.mv.name=进阶材料复制机
+materialreplication.machine.replicator.hv.name=进阶材料复制机 II
+materialreplication.machine.replicator.ev.name=进阶材料复制机 III
+materialreplication.machine.replicator.iv.name=精英材料复制机
+materialreplication.machine.replicator.luv.name=精英材料复制机 II
+materialreplication.machine.replicator.zpm.name=精英材料复制机 III
+materialreplication.machine.replicator.uv.name=终极材料复制机
+materialreplication.machine.replicator.uhv.name=史诗材料复制机
+materialreplication.machine.replicator.uev.name=史诗材料复制机 II
+materialreplication.machine.replicator.uiv.name=史诗材料复制机 III
+materialreplication.machine.replicator.uxv.name=史诗材料复制机 IV
+materialreplication.machine.replicator.opv.name=传奇材料复制机
+
+# Scrap Maker
+materialreplication.machine.scrapmaker.lv.name=基础废料回收机
+materialreplication.machine.scrapmaker.mv.name=进阶废料回收机
+materialreplication.machine.scrapmaker.hv.name=进阶废料回收机 II
+materialreplication.machine.scrapmaker.ev.name=进阶废料回收机 III
+materialreplication.machine.scrapmaker.iv.name=精英废料回收机
+materialreplication.machine.scrapmaker.luv.name=精英废料回收机 II
+materialreplication.machine.scrapmaker.zpm.name=精英废料回收机 III
+materialreplication.machine.scrapmaker.uv.name=终极废料回收机
+materialreplication.machine.scrapmaker.uhv.name=史诗废料回收机
+materialreplication.machine.scrapmaker.uev.name=史诗废料回收机 II
+materialreplication.machine.scrapmaker.uiv.name=史诗废料回收机 III
+materialreplication.machine.scrapmaker.uxv.name=史诗废料回收机 IV
+materialreplication.machine.scrapmaker.opv.name=传奇废料回收机
+materialreplication.machine.scrapmaker.warning1=将一切变为废料
+materialreplication.machine.scrapmaker.warning2.1=注意 :
+materialreplication.machine.scrapmaker.warning2.2= §l将会回收任意物品和流体
+materialreplication.machine.scrapmaker.warning3.1=回收倍率 :
+materialreplication.machine.scrapmaker.warning3.2= %s%% +%s%%/级
+
+## Multiblock
+# Controllers
+materialreplication.machine.large_deconstructor.name=大型材料分解机
+materialreplication.machine.large_scrapper.name=大型回收站
+
+# descriptions
+materialreplication.multiblock.large_deconstructor.description=
+materialreplication.machine.large_scrapper.description=全能垃圾桶
+
+## RecipeMap
+recipemap.deconstruction.name=材料解构
+recipemap.replication.name=材料复制
+recipemap.replication.property1=需要扫描过材料数据的U盘
+recipemap.replication.property2=

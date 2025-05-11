@@ -1,0 +1,4 @@
+gregicprobe:top.eut=EUt:
+gregicprobe.top.outputs=Outputting:
+gregicprobe.top.pipe.energy=Avg. Energy: §a%s EU/t §f(%s§f/%s§f) @ §a%s§f/§a%s A
+gregicprobe.top.top_override.fluid=Fluid: %s
